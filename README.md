@@ -24,7 +24,7 @@ Key Activities:
 
 2.Login/Sign up Screen: Display Sign in and sign up in the FITLIFE app.
 
-3.Home Screen (Dashboard):Displays Featured Workouts, User Reviews, Recent Workouts, Social Feeds, HEalth Articles, Quick Links.
+3.Home Screen (Dashboard):Displays Featured Workouts, User Reviews, Recent Workouts, Social Feeds, Health Articles, Quick Links.
 
 4.Track Workout Screen: To Track and save the progress of workout.
 
