@@ -16,6 +16,6 @@ Project: Mobile App Wireframing
 
 Objective:
 
-The objective of this project is to Create wireframes for a mobile app idea of your choice using design tools like Figma.
+The objective of this project is to Create wireframes for a fitness tracking and wellness mobile app (FITLIFE) using design tools like Figma.
 
 
